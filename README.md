@@ -18,7 +18,7 @@ The analysis is designed to provide data-driven insights for strategic decisions
 
 ## 🚀 Key Analysis Areas
 
-The project addresses operational and strategic questions relevant to supermarket management by querying the `pos_operator_logs` data.
+The project addresses operational and strategic questions relevant to supermarket management by querying the `pos_operator_logs` and `pos_transactions` data.
 
 ### 1. Operational Efficiency & Staffing Analysis
 * **Goal:** Determine staffing levels and distribution across different time periods.
