@@ -9,10 +9,10 @@ The analysis is designed to provide data-driven insights for strategic decisions
 
 ## 🛠️ Project Focus & Specific Data Skills
 
-| Category | Rationale (Multiple selections allowed) |
+| Category | Skills Applied |
 | :--- | :--- |
 | **Project Focus** | **SQL Database Project**, Statistical Analysis, Exploratory Data Analysis (EDA) |
-| **Specific Data Skills** | **Time Series** (analyzing date/time trends), Data Cleaning/Wrangling, Data Storytelling |
+| **Specific Data Skills** | **Time Series** (analyzing date/time trends), Data Storytelling |
 
 ---
 
@@ -40,9 +40,3 @@ The core of this project involves writing robust and efficient SQL queries. Key 
 * **Type Casting:** Casting date/time fields (e.g., `begin_date_time::DATE`) to ensure accurate date-based grouping for time-series analysis.
 
 ---
-
-## 💡 Future Work
-
-* **Financial Integration:** Integrate external data (labor costs, utility costs) to perform a full **Cost-Benefit Analysis** of operational decisions (e.g., opening/closing on specific days).
-* **Predictive Analysis:** Apply **Time Series** modeling techniques to the aggregated data to forecast short-term sales and optimize inventory levels.
-* **Customer Deep Dive:** Extend the analysis to customer-centric data points, such as payment methods and basket size, to identify key drivers of high-value transactions.
